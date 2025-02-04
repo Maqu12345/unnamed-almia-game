@@ -3862,13 +3862,9 @@ static const union AnimCmd sAnim_Slakoth_1[] =
 
 static const union AnimCmd sAnim_Vigoroth_1[] =
 {
-    ANIMCMD_FRAME(0, 13),
-    ANIMCMD_FRAME(1, 7),
-    ANIMCMD_FRAME(0, 13),
-    ANIMCMD_FRAME(1, 7),
-    ANIMCMD_FRAME(0, 13),
-    ANIMCMD_FRAME(1, 7),
-    ANIMCMD_FRAME(0, 11),
+    ANIMCMD_FRAME(1, 60),
+    ANIMCMD_FRAME(1, 10),
+    ANIMCMD_FRAME(0, 7),
     ANIMCMD_END,
 };
 
