@@ -1977,7 +1977,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .palette = gMonPalette_Zebstrika,
         .shinyPalette = gMonShinyPalette_Zebstrika,
         .iconSprite = gMonIcon_Zebstrika,
-        .iconPalIndex = 2,
+        .iconPalIndex = 4,
         SHADOW(-2, 13, SHADOW_SIZE_M)
         FOOTPRINT(Zebstrika)
         OVERWORLD(
