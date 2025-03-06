@@ -434,7 +434,7 @@
 #define P_FAMILY_CRABRAWLER              P_GEN_7_POKEMON
 #define P_FAMILY_ORICORIO                P_GEN_7_POKEMON
 #define P_FAMILY_CUTIEFLY                P_GEN_7_POKEMON
-#define P_FAMILY_ROCKRUFF                TRUE
+#define P_FAMILY_ROCKRUFF                FALSE
 #define P_FAMILY_WISHIWASHI              P_GEN_7_POKEMON
 #define P_FAMILY_MAREANIE                P_GEN_7_POKEMON
 #define P_FAMILY_MUDBRAY                 P_GEN_7_POKEMON
@@ -496,7 +496,7 @@
 #define P_FAMILY_APPLIN                  TRUE
 #define P_FAMILY_SILICOBRA               P_GEN_8_POKEMON
 #define P_FAMILY_CRAMORANT               P_GEN_8_POKEMON
-#define P_FAMILY_ARROKUDA                P_GEN_8_POKEMON
+#define P_FAMILY_ARROKUDA                TRUE
 #define P_FAMILY_TOXEL                   P_GEN_8_POKEMON
 #define P_FAMILY_SIZZLIPEDE              P_GEN_8_POKEMON
 #define P_FAMILY_CLOBBOPUS               P_GEN_8_POKEMON
